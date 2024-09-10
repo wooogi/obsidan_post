@@ -46,6 +46,12 @@ img:not(src) {background-color: #f7f7f7;}
 
 <iframe src="https://codepen.io/dsonesof-the-vuer/pen/ExELxOG" style="width:100%; height:400px;"></iframe>
 
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/dsonesof-the-vuer/embed/ExELxOG?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/dsonesof-the-vuer/pen/ExELxOG">
+  Untitled</a> by 김동욱 (<a href="https://codepen.io/dsonesof-the-vuer">@dsonesof-the-vuer</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 ![](https://codepen.io/dsonesof-the-vuer/pen/ExELxOG)
 ![[https://codepen.io/dsonesof-the-vuer/pen/ExELxOG]]
 [https://codepen.io/dsonesof-the-vuer/pen/ExELxOG](https://codepen.io/dsonesof-the-vuer/pen/ExELxOG)
